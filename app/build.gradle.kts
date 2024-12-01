@@ -40,6 +40,9 @@ android {
     buildFeatures {
         compose = true
     }
+    buildFeatures {
+        compose = true
+    }
 }
 
 dependencies {
